@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "veradigm-key-1",
+      "alg": "RS256",
+      "n": "4UPyRKlfE4AOjdoZymB3REzX63gqzi-soF0AfRpf_kosSC0-4UX_bGoi0QoHomnqOcX5qy43KyD_TpoSIn13HMBJ65ZCRLKubO9TnWQuGZrhcstYvrVpVcV4gqxGlE7P-VqVRmC_SugZletDcfCIMfWD8dxJ-elM0A2uzVYiqoouIPmTisnUkywJrzAHxHgav8ufTvFV7so7tEqXgf9zrGSUnVBgfpm8NFPqtaXgjtbZ8IOe1EVBS3YolBMcWbz_YYRzO4TAxp1mCVFwYpVMYttaQFmFLnfxwG30hx59baM8e3s1XsogwdcTT5aLpd3xQIe7WUx2Bxr9PiqsY1V91Q",
+      "e": "AQAB"
+    }
+  ]
+}
